@@ -1,3 +1,3 @@
 # hello-world
 Sharknado
-Fun,vibrant and adventurous
+Fun,vibrant, and adventurous
